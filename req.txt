@@ -1,0 +1,22 @@
+1) pip install opencv-python
+->OpenCV (opencv-python) use (short):
+👉 Used for image processing and computer vision tasks like:
+
+Reading images/videos
+Object detection
+Face detection
+Vehicle detection
+Image filtering
+Webcam access
+
+2)pip install ultralytics
+->pip install ultralytics → Used to install the Ultralytics library, mainly for YOLO (You Only Look Once) object detection models.
+
+Short uses:
+
+🎯 Object detection (cars, people, traffic lights)
+📍 Object tracking
+🖼️ Image classification
+✂️ Image segmentation
+
+Example for your traffic project: Detect vehicles (car, bike, bus, truck) from camera images/videos.
